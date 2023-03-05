@@ -1,12 +1,12 @@
 # units-ua
 
-Simple list of Ukrainian Army units with their patches, social media accounts and subordinate units.
+Simple list of Ukrainian and Russian Army units with their patches, social media accounts and subordinate units.
 
 ## Configuration
 
 ### Units
 
-Each folder in /public/units defines a unit.
+Each folder in /public/units-ua and /public/units-ru defines a unit.
 
 **Important**: Folder names can only contain alphanumeric characters, i.e. 0-9, a-z, A-Z and spaces.
 
